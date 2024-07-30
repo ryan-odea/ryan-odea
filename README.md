@@ -1,6 +1,6 @@
 ## Hi there! Welcome to my Github👋
 ### Current Projects
-- [SEQuential](https://github.com/CausalInference/SEQuential): Estimation of the observational analogs of the intention-to-treat and per-protocol effects of hypothetical treatment strategies
+- [SEQuential](https://github.com/CausalInference/SEQuential): Observational analogs of the intention-to-treat and per-protocol effects of hypothetical treatment strategies
 - [Capture Recapture Simulations](https://github.com/SyndemicsLab/CRCSim) Advancing intra-database spatial capture re-capture methods through simulation comparisons
 
 ### Packages and Publications
