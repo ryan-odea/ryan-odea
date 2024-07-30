@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there Welcome to my Github👋
+### Current Projects
+- [SEQuential](https://github.com/CausalInference/SEQuential) (Private): Estimation of the observational analogs of the intention-to-treat and per-protocol effects of hypothetical treatment strategies
+- [Capture Recapture Simulation Methods](https://github.com/SyndemicsLab/CRCSim) (Private): Advancing intra-database spatial capture re-capture methods through simulation comparisons
+
+### Previous Work and Publications
 
 <!--
 **ryan-odea/ryan-odea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
