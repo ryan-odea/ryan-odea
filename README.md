@@ -11,3 +11,5 @@
 - ![Static Badge](https://img.shields.io/badge/status-submitted-orange) **Clinical and economic outcomes of approaches to mitigating encampments of individuals experiencing homelessness and high-risk opioid use in Massachusetts** Hana Zwick, Ryan O’Dea, Joshua Barocas, Juliet Flam-Ross, Avik Chatterjee, Alexander Walley, Rebecca Harris, Bruce Schackman, Laura White, Stavroula A. Chrysanthopoulou, Sabrina Assoumou, Sean Murphy, Jake Morgan, Dimitri Baptiste, Matthew Carroll, Benjamin Linas
 - ![Static Badge](https://img.shields.io/badge/status-upcoming-yellow) **Estimation of Opioid Use Disorder Prevalence Under Unique Data Scenarios: A Simulation Study** Ryan O'Dea, Josh Barocas, Ben Linas, Laura White, Jianing Wang
 
+### Presentations
+- ![Static Badge](https://img.shields.io/badge/status-upcoming-green) **October 2024** at INHSU (International Network on Health and Hepatitis in Substance Users). Estimation of Opioid Use Disorder Prevalence Under Unique Data Scenarios: A Simulation Study
