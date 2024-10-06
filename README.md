@@ -6,10 +6,12 @@
 - [![Downloads](https://static.pepy.tech/badge/pygformula)](https://pepy.tech/project/pygformula) [pygformula](https://github.com/CausalInference/pygformula): Estimation of the risk or mean of an outcome under hypothetical treatment strategies
 
 ### Publications
-- ![Static Badge](https://img.shields.io/badge/status-accepted-blue) **Health and Economic Outcomes of Offering Buprenorphine in Shelters in Massachusetts: A Simulation Study**. Avik Chatterjee, Emily Stewart, Sabrina Assoumou, Stavroula A. Chrysanthopoulou, Rebecca Harris, Ryan O’Dea, Bruce Schackman, Laura White, Benjamin Linas 
-- ![Static Badge](https://img.shields.io/badge/status-submitted-orange) **Utilization and Reimbursement of Glucagon Products for Severe Hypoglycemia in Medicaid: 2012-2023**. Noah Feder, Ryan O'Dea, Margaret Zupa, Jing Luo
+- ![Static Badge](https://img.shields.io/badge/status-accepted-green) **Health and Economic Outcomes of Offering Buprenorphine in Shelters in Massachusetts: A Simulation Study**. Avik Chatterjee, Emily Stewart, Sabrina Assoumou, Stavroula A. Chrysanthopoulou, Rebecca Harris, Ryan O’Dea, Bruce Schackman, Laura White, Benjamin Linas 
+- ![Static Badge](https://img.shields.io/badge/status-accepted-green) **Utilization and Reimbursement of Glucagon Products for Severe Hypoglycemia in Medicaid: 2012-2023**. Noah Feder, Ryan O'Dea, Margaret Zupa, Jing Luo
 - ![Static Badge](https://img.shields.io/badge/status-submitted-orange) **Clinical and economic outcomes of approaches to mitigating encampments of individuals experiencing homelessness and high-risk opioid use in Massachusetts** Hana Zwick, Ryan O’Dea, Joshua Barocas, Juliet Flam-Ross, Avik Chatterjee, Alexander Walley, Rebecca Harris, Bruce Schackman, Laura White, Stavroula A. Chrysanthopoulou, Sabrina Assoumou, Sean Murphy, Jake Morgan, Dimitri Baptiste, Matthew Carroll, Benjamin Linas
 - ![Static Badge](https://img.shields.io/badge/status-upcoming-yellow) **Estimation of Opioid Use Disorder Prevalence Under Unique Data Scenarios: A Simulation Study** Ryan O'Dea, Josh Barocas, Ben Linas, Laura White, Jianing Wang
+- ![Static Badge](https://img.shields.io/badge/status-upcoming-yellow) **Impact of SAMHSA's Increased Flexibility Guidelines on Take-Home Methadone Uptake and Retention in the State of Massachusetts 2020-2023.** Ryan O'Dea, Hana Zwick, Sabrina Assmoumou.
+- ![Static Badge](https://img.shields.io/badge/status-upcoming-yellow) **Economic and Health Outcomes of SAMHSA's Increased Flexibility Guidelines on Take-Home Methadone: A Simulation Study.** Ryan O'Dea, Hana Zwick, Sabrina Assoumou.
 
 ### Presentations
-- ![Static Badge](https://img.shields.io/badge/status-upcoming-green) **October 2024** at INHSU (International Network on Health and Hepatitis in Substance Users). Estimation of Opioid Use Disorder Prevalence Under Unique Data Scenarios: A Simulation Study
+- ![Static Badge](https://img.shields.io/badge/status-passed-gray) **October 2024** at INHSU (International Network on Health and Hepatitis in Substance Users). Estimation of Opioid Use Disorder Prevalence Under Unique Data Scenarios: A Simulation Study
