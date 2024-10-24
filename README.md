@@ -1,7 +1,6 @@
 ## Hi there! Welcome to my Github👋
 ### Packages
 - ![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/SEQuential) [SEQuential [WIP]](https://github.com/CausalInference/SEQuential): Observational analogs of the ITT and per-protocol effects of hypothetical treatments strategies
-- ![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/Syndemics) [Syndemics [WIP]](https://github.com/SyndemicsLab/Syndemics): Toolkit for interaction with SyndemicsLab RESPOND Model in the R language
 - [![Downloads](https://static.pepy.tech/badge/pytruncreg)](https://pepy.tech/project/pytruncreg) [pytruncreg](https://github.com/CausalInference/pytruncreg): Estimation of one-way truncated gaussian regression models
 - [![Downloads](https://static.pepy.tech/badge/pygformula)](https://pepy.tech/project/pygformula) [pygformula](https://github.com/CausalInference/pygformula): Estimation of the risk or mean of an outcome under hypothetical treatment strategies
 
