@@ -10,3 +10,7 @@
 
 ### Presentations
 - ![Static Badge](https://img.shields.io/badge/status-passed-gray) **October 2024** at INHSU (International Network on Health and Hepatitis in Substance Users). Estimation of Opioid Use Disorder Prevalence Under Unique Data Scenarios: A Simulation Study
+
+### Teaching
+- ![Static Badge](https://img.shields.io/badge/2025-Spring-blue) Teaching Fellow with Harvard University: High Performance Computing
+
