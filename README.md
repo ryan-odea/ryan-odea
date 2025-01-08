@@ -6,6 +6,7 @@
 - [![Downloads](https://static.pepy.tech/badge/pygformula)](https://pepy.tech/project/pygformula) [pygformula](https://github.com/CausalInference/pygformula): Estimation of the risk or mean of an outcome under hypothetical treatment strategies
 
 ### Publications
+- ![Static Badge](https://img.shields.io/badge/status-published-blue) Feder NM, O’Dea R, Zupa M, Luo J. Prescriptions and Reimbursement of Glucagon Products for Severe Hypoglycemia in Medicaid. JAMA. Published online January 08, 2025. doi:10.1001/jama.2024.25974
 - ![Static Badge](https://img.shields.io/badge/status-published-blue) Chatterjee A, Stewart EA, Assoumou SA, et al. Health and Economic Outcomes of Offering Buprenorphine in Homeless Shelters in Massachusetts. JAMA Netw Open. 2024;7(10):e2437233. doi:10.1001/jamanetworkopen.2024.37233
 
 ### Presentations
