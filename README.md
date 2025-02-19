@@ -14,6 +14,7 @@
 
 ### Presentations
 - ![Static Badge](https://img.shields.io/badge/status-passed-gray) **October 2024** at INHSU (International Network on Health and Hepatitis in Substance Users). Estimation of Opioid Use Disorder Prevalence Under Unique Data Scenarios: A Simulation Study
+- ![Static Badge](https://img.shields.io/badge/status-passed-gray) **May 2024** at SGIM (Society of General Internal Medicine). Utilization and Reimbursement of Glucagon Products for Severe Hypoglycemia in Medicaid: 2012-2022
 
 ### Teaching
 - ![Static Badge](https://img.shields.io/badge/2025-Spring-blue) Teaching Fellow with Harvard University: High Performance Computing
