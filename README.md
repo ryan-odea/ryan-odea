@@ -5,6 +5,7 @@
 - [![Downloads](https://static.pepy.tech/badge/pytruncreg)](https://pepy.tech/project/pytruncreg) [pytruncreg](https://github.com/CausalInference/pytruncreg): Estimation of one-way truncated gaussian regression models and hessian via maximum likelihood
 - [![Downloads](https://static.pepy.tech/badge/pygformula)](https://pepy.tech/project/pygformula) [pygformula](https://github.com/CausalInference/pygformula): Estimation of the risk or mean of an outcome under hypothetical treatment strategies
 - ![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/learner) [Learner](https://cran.r-project.org/web/packages/learner/index.html) Latent space transfer learning methods for low-rank matrix estimation
+- [![Downloads](https://static.pepy.tech/badge/learner_py)](https://pepy.tech/project/learner_py) [learner_py](https://github.com/ryan-odea/pylearner): Cpython implementation for LEARNER
 
 ### Publications
 - ![Static Badge](https://img.shields.io/badge/status-published-blue) Feder NM, O’Dea R, Zupa M, Luo J. Prescriptions and Reimbursement of Glucagon Products for Severe Hypoglycemia in Medicaid. JAMA. Published online January 08, 2025. doi:10.1001/jama.2024.25974
