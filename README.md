@@ -8,6 +8,7 @@
 - [![Downloads](https://static.pepy.tech/badge/learner_py)](https://pepy.tech/project/learner-py) [learner-py](https://github.com/ryan-odea/pylearner): Cpython implementation for LEARNER
 
 ### Publications
+- ![Static Badge](https://img.shields.io/badge/status-In_Press-orange) Zwick H, O'Dea R, Barocas J, et al. Health and Economic Outcomes of Addressing Encampments of Individuals Using Opioids in Massachusetts. JAMA Netw Open. In Press.
 - ![Static Badge](https://img.shields.io/badge/status-published-blue) Feder NM, O’Dea R, Zupa M, Luo J. Prescriptions and Reimbursement of Glucagon Products for Severe Hypoglycemia in Medicaid. JAMA. Published online January 08, 2025. doi:10.1001/jama.2024.25974
 - ![Static Badge](https://img.shields.io/badge/status-published-blue) Chatterjee A, Stewart EA, Assoumou SA, et al. Health and Economic Outcomes of Offering Buprenorphine in Homeless Shelters in Massachusetts. JAMA Netw Open. 2024;7(10):e2437233. doi:10.1001/jamanetworkopen.2024.37233
 
