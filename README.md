@@ -6,6 +6,7 @@
 - [![Downloads](https://static.pepy.tech/badge/pygformula)](https://pepy.tech/project/pygformula) [pygformula](https://github.com/CausalInference/pygformula): Estimation of the risk or mean of an outcome under hypothetical treatment strategies
 - ![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/learner) [Learner](https://cran.r-project.org/web/packages/learner/index.html) Latent space transfer learning methods for low-rank matrix estimation
 - [![Downloads](https://static.pepy.tech/badge/learner_py)](https://pepy.tech/project/learner-py) [learner-py](https://github.com/ryan-odea/pylearner): Cpython implementation for LEARNER
+- [![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/circles)](https://cran.r-project.org/package=circles) [circles](https://github.com/ryan-odea/circles): Lightweight package for drawing circular objects
 
 ### Publications
 - ![Static Badge](https://img.shields.io/badge/status-In_Press-orange) Zwick H, O'Dea R, Barocas J, et al. Health and Economic Outcomes of Addressing Encampments of Individuals Using Opioids in Massachusetts. JAMA Netw Open. In Press.
