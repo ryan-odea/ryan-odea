@@ -21,5 +21,5 @@
 - ![Static Badge](https://img.shields.io/badge/2025-Spring-blue) Teaching Fellow with Harvard University: High Performance Computing
 
 ### Gallery Showcases
-- ![Static Badge](https://img.shields.io/badge/March_10-Upcoming-green) Harvard Staff Art Show Countway Library Show. [Available online](https://staffartshow.harvard.edu/directory/ryan-o-dea)
+- ![Static Badge](https://img.shields.io/badge/March_10-passed-gray) Harvard Staff Art Show Countway Library Show. [Available online](https://staffartshow.harvard.edu/directory/ryan-o-dea)
 
