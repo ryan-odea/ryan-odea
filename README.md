@@ -1,6 +1,6 @@
 ## Hi there! Welcome to my Github👋
 ### Packages
-- ![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/SEQuential) [SEQuential](https://github.com/CausalInference/SEQuential): Observational analogs of the ITT and per-protocol effects of hypothetical treatments strategies
+- ![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/SEQTaRget) [SEQuential](https://github.com/CausalInference/SEQTaRget): Observational analogs of the ITT and per-protocol effects of hypothetical treatments strategies
 - ![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/gfoRmulaICE) [gfoRmulaICE](https://github.com/CausalInference/gfoRmulaICE): Parametric iterative conditional expectation G-Formula
 - [![Downloads](https://static.pepy.tech/badge/pytruncreg)](https://pepy.tech/project/pytruncreg) [pytruncreg](https://github.com/CausalInference/pytruncreg): Estimation of one-way truncated gaussian regression models and hessian via maximum likelihood
 - [![Downloads](https://static.pepy.tech/badge/pygformula)](https://pepy.tech/project/pygformula) [pygformula](https://github.com/CausalInference/pygformula): Estimation of the risk or mean of an outcome under hypothetical treatment strategies
