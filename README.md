@@ -7,7 +7,6 @@
 - ![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/learner) [Learner](https://cran.r-project.org/web/packages/learner/index.html) Latent space transfer learning methods for low-rank matrix estimation
 - [![Downloads](https://static.pepy.tech/badge/learner_py)](https://pepy.tech/project/learner-py) [learner-py](https://github.com/ryan-odea/pylearner): Cpython implementation for LEARNER
 - [![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/circles)](https://cran.r-project.org/package=circles) [circles](https://github.com/ryan-odea/circles): Lightweight package for drawing circular objects
-- [![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/Syndemics)](https://cran.r-project.org/package=Syndemics) [Syndemics](https://github.com/SyndemicsLab/Syndemics): R package for commonly used SyndemicsLab functions and interacting with the RESPOND model from Boston Medical Center.
 
 ### Publications
 - ![Static Badge](https://img.shields.io/badge/status-preprint-orange) McGrath S, Zhu C, O'Dea R, Guo M, Duan R. LEARNER: A Transfer Learning Method for Low-Rank Matrix Estimation. [Preprint] arXiv:2412.20605
