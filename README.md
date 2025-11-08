@@ -1,5 +1,6 @@
 ## Hi there! Welcome to my Github👋
 ### Packages
+- [![Downloads](https://static.pepy.tech/badge/frameMerge)](https://pepy.tech/project/frameMerge) [frameMerge](https://github.com/ryan-odea/frameMerge): Lightweight tool to merge crystallographic dataframes (h5 files)
 - ![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/SEQTaRget) [SEQTaRget](https://github.com/CausalInference/SEQTaRget): Observational analogs of the ITT and per-protocol effects of hypothetical treatments strategies
 - ![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/gfoRmulaICE) [gfoRmulaICE](https://github.com/CausalInference/gfoRmulaICE): Parametric iterative conditional expectation G-Formula
 - [![Downloads](https://static.pepy.tech/badge/pytruncreg)](https://pepy.tech/project/pytruncreg) [pytruncreg](https://github.com/CausalInference/pytruncreg): Estimation of one-way truncated gaussian regression models and hessian via maximum likelihood
