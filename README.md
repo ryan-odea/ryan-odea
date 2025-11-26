@@ -1,5 +1,6 @@
 ## Hi there! Welcome to my Github👋
 ### Packages
+- [![Downloads](https://static.pepy.tech/badge/pySEQTarget)](https://pepy.tech/project/pySEQTarget) [pySEQTarget](https://github.com/CausalInference/pySEQTarget): Python equivalent of SEQTaRget
 - [![Downloads](https://static.pepy.tech/badge/frameMerge)](https://pepy.tech/project/frameMerge) [frameMerge](https://github.com/ryan-odea/frameMerge): Lightweight tool to merge crystallographic dataframes (h5 files)
 - ![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/SEQTaRget) [SEQTaRget](https://github.com/CausalInference/SEQTaRget): Observational analogs of the ITT and per-protocol effects of hypothetical treatments strategies
 - ![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/gfoRmulaICE) [gfoRmulaICE](https://github.com/CausalInference/gfoRmulaICE): Parametric iterative conditional expectation G-Formula
