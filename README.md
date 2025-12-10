@@ -1,13 +1,19 @@
 ## Hi there! Welcome to my Github👋
 ### Packages
+#### Epidemiology
 - [![Downloads](https://static.pepy.tech/badge/pySEQTarget)](https://pepy.tech/project/pySEQTarget) [pySEQTarget](https://github.com/CausalInference/pySEQTarget): Python equivalent of SEQTaRget
-- [![Downloads](https://static.pepy.tech/badge/frameMerge)](https://pepy.tech/project/frameMerge) [frameMerge](https://github.com/ryan-odea/frameMerge): Lightweight tool to merge crystallographic dataframes (h5 files)
 - ![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/SEQTaRget) [SEQTaRget](https://github.com/CausalInference/SEQTaRget): Observational analogs of the ITT and per-protocol effects of hypothetical treatments strategies
 - ![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/gfoRmulaICE) [gfoRmulaICE](https://github.com/CausalInference/gfoRmulaICE): Parametric iterative conditional expectation G-Formula
 - [![Downloads](https://static.pepy.tech/badge/pytruncreg)](https://pepy.tech/project/pytruncreg) [pytruncreg](https://github.com/CausalInference/pytruncreg): Estimation of one-way truncated gaussian regression models and hessian via maximum likelihood
 - [![Downloads](https://static.pepy.tech/badge/pygformula)](https://pepy.tech/project/pygformula) [pygformula](https://github.com/CausalInference/pygformula): Estimation of the risk or mean of an outcome under hypothetical treatment strategies
 - ![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/learner) [Learner](https://cran.r-project.org/web/packages/learner/index.html) Latent space transfer learning methods for low-rank matrix estimation
 - [![Downloads](https://static.pepy.tech/badge/learner_py)](https://pepy.tech/project/learner-py) [learner-py](https://github.com/ryan-odea/pylearner): Cpython implementation for LEARNER
+
+#### Time Resolved Serial Crystallography
+- [![Downloads](https://static.pepy.tech/badge/frameMerge)](https://pepy.tech/project/frameMerge) [frameMerge](https://github.com/ryan-odea/frameMerge): Lightweight tool to merge crystallographic dataframes (h5 files)
+- [![Downloads](https://static.pepy.tech/badge/storageCat)](https://pepy.tech/project/storageCat) [storageCat](https://github.com/ryan-odea/storageCat): Easy data archival storage to scicat
+
+#### Misc
 - [![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/circles)](https://cran.r-project.org/package=circles) [circles](https://github.com/ryan-odea/circles): Lightweight package for drawing circular objects
 
 ### Publications
