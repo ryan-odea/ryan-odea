@@ -10,7 +10,7 @@
 - [![Downloads](https://static.pepy.tech/badge/learner_py)](https://pepy.tech/project/learner-py) [learner-py](https://github.com/ryan-odea/pylearner): Cpython implementation for LEARNER
 
 #### Time Resolved Serial Crystallography
-- [![Downloads](https://static.pepy.tech/badge/frameMerge)](https://pepy.tech/project/frameMerge) [frameMerge](https://github.com/ryan-odea/frameMerge): Lightweight tool to merge crystallographic dataframes (h5 files)
+- [![Downloads](https://static.pepy.tech/badge/hatTrick)](https://pepy.tech/project/hatTrick) [hatTrick](https://github.com/ryan-odea/hatTrick): Hadamard encoding and decoding of crystallographic data
 - [![Downloads](https://static.pepy.tech/badge/storageCat)](https://pepy.tech/project/storageCat) [storageCat](https://github.com/ryan-odea/storageCat): Easy data archival storage to scicat
 
 #### Misc
