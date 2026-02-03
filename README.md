@@ -12,7 +12,7 @@
 #### Time Resolved Serial Crystallography
 - [![Downloads](https://static.pepy.tech/badge/hatTrick)](https://pepy.tech/project/hatTrick) [hatTrick](https://github.com/ryan-odea/hatTrick): Hadamard encoding and decoding of crystallographic data
 - [![Downloads](https://static.pepy.tech/badge/storageCat)](https://pepy.tech/project/storageCat) [storageCat](https://github.com/ryan-odea/storageCat): Easy data archival storage to scicat
-- [!Downloads](https://static.pepy.tech/badge/TRSFX)](https://pepy.tech/project/TRSFX) [TRSFX](https://github.com/ryan-odea/TRSFX): Indexing and collection of tools to analyze time resolved crystallography
+- [![Downloads](https://static.pepy.tech/badge/TRSFX)](https://pepy.tech/project/TRSFX) [TRSFX](https://github.com/ryan-odea/TRSFX): Indexing and collection of tools to analyze time resolved crystallography
 
 #### Misc
 - [![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/circles)](https://cran.r-project.org/package=circles) [circles](https://github.com/ryan-odea/circles): Lightweight package for drawing circular objects
