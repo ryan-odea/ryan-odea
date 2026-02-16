@@ -24,6 +24,7 @@
 - ![Static Badge](https://img.shields.io/badge/status-published-blue) Chatterjee A, Stewart EA, Assoumou SA, et al. Health and Economic Outcomes of Offering Buprenorphine in Homeless Shelters in Massachusetts. JAMA Netw Open. 2024;7(10):e2437233. doi:10.1001/jamanetworkopen.2024.37233
 
 ### Presentations
+- ![Static Badge](https://img.shields.io/badge/status-upcoming-green)  **February 2026** at ESRF (European Synchrotron Radiation Facility). Signal recovery of BacterioRhodopsin using the Hadamard Transform on detector signals.
 - ![Static Badge](https://img.shields.io/badge/status-passed-gray) **October 2024** at INHSU (International Network on Health and Hepatitis in Substance Users). Estimation of Opioid Use Disorder Prevalence Under Unique Data Scenarios: A Simulation Study
 - ![Static Badge](https://img.shields.io/badge/status-passed-gray) **May 2024** at SGIM (Society of General Internal Medicine). Utilization and Reimbursement of Glucagon Products for Severe Hypoglycemia in Medicaid: 2012-2022
 
