@@ -8,6 +8,7 @@
 - [![Downloads](https://static.pepy.tech/badge/pygformula)](https://pepy.tech/project/pygformula) [pygformula](https://github.com/CausalInference/pygformula): Estimation of the risk or mean of an outcome under hypothetical treatment strategies
 - ![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/learner) [Learner](https://cran.r-project.org/web/packages/learner/index.html) Latent space transfer learning methods for low-rank matrix estimation
 - [![Downloads](https://static.pepy.tech/badge/learner_py)](https://pepy.tech/project/learner-py) [learner-py](https://github.com/ryan-odea/pylearner): Cpython implementation for LEARNER
+- [![Downloads](https://static.pepy.tech/badge/CompRiskReg)](https://pepy.tech/project/CompRiskReg) [CompRiskReg](https://github.com/ryan-odea/CompRiskReg): Python translation of R's cmprsk
 
 #### Time Resolved Serial Crystallography
 - [![Downloads](https://static.pepy.tech/badge/hatTrick)](https://pepy.tech/project/hatTrick) [hatTrick](https://github.com/ryan-odea/hatTrick): Hadamard encoding and decoding of crystallographic data
