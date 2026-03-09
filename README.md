@@ -26,7 +26,7 @@
 
 ### Presentations
 - ![Static Badge](https://img.shields.io/badge/status-upcoming-green) **April 2026** at Together For Hope. Medication for opioid use disorder initiation and discontinuation in pregnant and post-partum people in Massachusetts, 2014-2022. Epstein et al.
-- ![Static Badge](https://img.shields.io/badge/status-upcoming-green)  **February 2026** at ESRF (European Synchrotron Radiation Facility). Hadamard Transform Recovers Reaction Kinetics in Time Resolved Serial Crystallography. O'Dea R, Weinert T.
+- ![Static Badge](https://img.shields.io/badge/status-passed-gray)  **February 2026** at ESRF (European Synchrotron Radiation Facility). Hadamard Transform Recovers Reaction Kinetics in Time Resolved Serial Crystallography. O'Dea R, Weinert T.
 - ![Static Badge](https://img.shields.io/badge/status-passed-gray) **October 2024** at INHSU (International Network on Health and Hepatitis in Substance Users). Estimation of Opioid Use Disorder Prevalence Under Unique Data Scenarios: A Simulation Study. O'Dea R, White LF, Barocas J, Linas B, Wang J.
 - ![Static Badge](https://img.shields.io/badge/status-passed-gray) **May 2024** at SGIM (Society of General Internal Medicine). Utilization and Reimbursement of Glucagon Products for Severe Hypoglycemia in Medicaid: 2012-2022. Feder N, O'Dea R, Zupa M, Luo J.
 
