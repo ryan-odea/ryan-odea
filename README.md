@@ -31,7 +31,7 @@
 - ![Static Badge](https://img.shields.io/badge/status-passed-gray) **May 2024** at SGIM (Society of General Internal Medicine). Utilization and Reimbursement of Glucagon Products for Severe Hypoglycemia in Medicaid: 2012-2022. Feder N, O'Dea R, Zupa M, Luo J.
 
 ### Teaching
-- ![Static Badge](https://img.shields.io/badge/2025-Spring-blue) Teaching Fellow with Harvard University: High Performance Computing
+- ![Static Badge](https://img.shields.io/badge/2025-Spring-gray) Teaching Fellow with Harvard University: High Performance Computing
 
 ### Gallery Showcases
 - ![Static Badge](https://img.shields.io/badge/March_10-passed-gray) Harvard Staff Art Show Countway Library Show. [Available online](https://staffartshow.harvard.edu/directory/ryan-o-dea)
