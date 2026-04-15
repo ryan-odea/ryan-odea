@@ -25,12 +25,14 @@
 - ![Static Badge](https://img.shields.io/badge/status-published-blue) Chatterjee A, Stewart EA, Assoumou SA, et al. Health and Economic Outcomes of Offering Buprenorphine in Homeless Shelters in Massachusetts. JAMA Netw Open. 2024;7(10):e2437233. doi:10.1001/jamanetworkopen.2024.37233
 
 ### Presentations
-- ![Static Badge](https://img.shields.io/badge/status-upcoming-green) **April 2026** at Together For Hope. Medication for opioid use disorder initiation and discontinuation in pregnant and post-partum people in Massachusetts, 2014-2022. Epstein et al.
-- ![Static Badge](https://img.shields.io/badge/status-passed-gray)  **February 2026** at ESRF (European Synchrotron Radiation Facility). Hadamard Transform Recovers Reaction Kinetics in Time Resolved Serial Crystallography. O'Dea R, Weinert T.
-- ![Static Badge](https://img.shields.io/badge/status-passed-gray) **October 2024** at INHSU (International Network on Health and Hepatitis in Substance Users). Estimation of Opioid Use Disorder Prevalence Under Unique Data Scenarios: A Simulation Study. O'Dea R, White LF, Barocas J, Linas B, Wang J.
-- ![Static Badge](https://img.shields.io/badge/status-passed-gray) **May 2024** at SGIM (Society of General Internal Medicine). Utilization and Reimbursement of Glucagon Products for Severe Hypoglycemia in Medicaid: 2012-2022. Feder N, O'Dea R, Zupa M, Luo J.
+- ![Static Badge](https://img.shields.io/badge/status-upcoming-green) **Aug 2026** at Joint Statistical Meetings (JSM). LEARNER: A transfer learning method for low-rank matrix estimation [Paper Presentation]. McGrath S, Zhu C, O'Dea R, Guo M, Duan R.
+- ![Static Badge](https://img.shields.io/badge/status-upcoming-green) **April 2026** at Together For Hope. Medication for opioid use disorder initiation and discontinuation in pregnant and post-partum people in Massachusetts, 2014-2022 [Poster Presentation]. Epstein et al.
+- ![Static Badge](https://img.shields.io/badge/status-passed-gray)  **February 2026** at ESRF (European Synchrotron Radiation Facility). Hadamard Transform Recovers Reaction Kinetics in Time Resolved Serial Crystallography [Poster Presentation]. O'Dea R, Weinert T.
+- ![Static Badge](https://img.shields.io/badge/status-passed-gray) **October 2024** at INHSU (International Network on Health and Hepatitis in Substance Users). Estimation of Opioid Use Disorder Prevalence Under Unique Data Scenarios: A Simulation Study [Poster Presentation]. O'Dea R, White LF, Barocas J, Linas B, Wang J.
+- ![Static Badge](https://img.shields.io/badge/status-passed-gray) **May 2024** at SGIM (Society of General Internal Medicine). Utilization and Reimbursement of Glucagon Products for Severe Hypoglycemia in Medicaid: 2012-2022 [Poster Presentation]. Feder N, O'Dea R, Zupa M, Luo J.
 
 ### Teaching
+- ![Static Badge](https://img.shields.io/badge/2026-Fall-blue) Teaching Fellow with University of Zurich: Artificial Intelligence and Deep Learning the the Life Sciences
 - ![Static Badge](https://img.shields.io/badge/2025-Spring-gray) Teaching Fellow with Harvard University: High Performance Computing
 
 ### Gallery Showcases
