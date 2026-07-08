@@ -19,6 +19,7 @@
 - [![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/circles)](https://cran.r-project.org/package=circles) [circles](https://github.com/ryan-odea/circles): Lightweight package for drawing circular objects
 
 ### Publications
+- ![Static Badge](https://img.shields.io/badge/status-upcoming-yellow) Szmulewicz, A, Liang YH, Martinez-Alez G, O'Dea R et al. Comparative effectiveness of mood stabilizer monotherapy vs. second-generation antipsychotic monotherapy vs. combination therapy for the acute and maintenance treatment after a first episode of mania: A target trial emulation.
 - ![Static Badge](https://img.shields.io/badge/status-preprint-orange) McGrath S, Zhu C, O'Dea R, Guo M, Duan R. LEARNER: A Transfer Learning Method for Low-Rank Matrix Estimation. [Preprint] arXiv:2412.20605
 - ![Static Badge](https://img.shields.io/badge/status-published-blue) Zwick H, O’Dea R, Barocas JA, et al. Health and Economic Outcomes of Addressing Encampments of Individuals Using Opioids. JAMA Netw Open. 2025;8(6):e2517095. doi:10.1001/jamanetworkopen.2025.17095
 - ![Static Badge](https://img.shields.io/badge/status-published-blue) Feder NM, O’Dea R, Zupa M, Luo J. Prescriptions and Reimbursement of Glucagon Products for Severe Hypoglycemia in Medicaid. JAMA. Published online January 08, 2025. doi:10.1001/jama.2024.25974
