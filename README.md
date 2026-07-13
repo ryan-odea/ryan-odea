@@ -12,7 +12,7 @@
 
 #### Time Resolved Serial Crystallography
 - [![Downloads](https://static.pepy.tech/badge/hatTrick)](https://pepy.tech/project/hatTrick) [hatTrick](https://github.com/ryan-odea/hatTrick): Hadamard encoding and decoding of crystallographic data
-- [![Downloads](https://static.pepy.tech/badge/probixi)](https://pepy.tech/project/probixi) [TRSFX](https://github.com/ryan-odea/probixi): Self-calibrating probabilistic peak finding for time-resolved serial x-ray crystallography
+- [![Downloads](https://static.pepy.tech/badge/probixi)](https://pepy.tech/project/probixi) [probixi](https://github.com/ryan-odea/probixi): Self-calibrating probabilistic peak finding for time-resolved serial x-ray crystallography
 
 #### Misc
 - [![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/circles)](https://cran.r-project.org/package=circles) [circles](https://github.com/ryan-odea/circles): Lightweight package for drawing circular objects
