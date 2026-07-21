@@ -19,7 +19,7 @@
 
 ### Publications
 - ![Static Badge](https://img.shields.io/badge/status-upcoming-yellow) Szmulewicz, A, Liang YH, Martinez-Alez G, O'Dea R et al. Comparative effectiveness of mood stabilizer monotherapy vs. second-generation antipsychotic monotherapy vs. combination therapy for the acute and maintenance treatment after a first episode of mania: A target trial emulation.
-- ![Static Badge](https://img.shields.io/badge/status-published-blue) S. McGrath, C. Zhu, R. O'Dea, M. Guo, and R. Duan, “ LEARNER: A Transfer Learning Method for Low-Rank Matrix Estimation,” Statistics in Medicine 45, no. 15-17 (2026): e70669, https://doi.org/10.1002/sim.70669.
+- ![Static Badge](https://img.shields.io/badge/status-published-blue) S. McGrath, C. Zhu, R. O'Dea, M. Guo, and R. Duan, “ LEARNER: A Transfer Learning Method for Low-Rank Matrix Estimation,” Statistics in Medicine 45, no. 15-17 (2026): e70669, doi.org/10.1002/sim.70669.
 - ![Static Badge](https://img.shields.io/badge/status-published-blue) Zwick H, O’Dea R, Barocas JA, et al. Health and Economic Outcomes of Addressing Encampments of Individuals Using Opioids. JAMA Netw Open. 2025;8(6):e2517095. doi:10.1001/jamanetworkopen.2025.17095
 - ![Static Badge](https://img.shields.io/badge/status-published-blue) Feder NM, O’Dea R, Zupa M, Luo J. Prescriptions and Reimbursement of Glucagon Products for Severe Hypoglycemia in Medicaid. JAMA. Published online January 08, 2025. doi:10.1001/jama.2024.25974
 - ![Static Badge](https://img.shields.io/badge/status-published-blue) Chatterjee A, Stewart EA, Assoumou SA, et al. Health and Economic Outcomes of Offering Buprenorphine in Homeless Shelters in Massachusetts. JAMA Netw Open. 2024;7(10):e2437233. doi:10.1001/jamanetworkopen.2024.37233
