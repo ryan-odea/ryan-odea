@@ -18,7 +18,8 @@
 - [![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/circles)](https://cran.r-project.org/package=circles) [circles](https://github.com/ryan-odea/circles): Lightweight package for drawing circular objects
 
 ### Publications
-- ![Static Badge](https://img.shields.io/badge/status-review-yellow) O'Dea R, Kepa M, Weinert T.  PROBIXI - Self-Calibrating (PROB)ab(I)listic Peak Detection for Serial (X)-Ray Crystallograph(I)c Data. 
+- ![Static Badge](https://img.shields.io/badge/status-review-yellow) O'Dea R, Kepa M, Weinert T.  PROBIXI - Self-Calibrating (PROB)ab(I)listic Peak Detection for Serial (X)-Ray Crystallograph(I)c Data.
+- ![Static Badge](https://img.shields.io/badge/status-review-yellow) Assoumou A, O'Dea, R, Zwick H, Vititow J, et al. Regulatory Flexibility during the COVID-19 Public Health Emergency Increased Methadone Engagement: Evidence from an Interrupted Time Series Analysis.
 - ![Static Badge](https://img.shields.io/badge/status-accepted-green) Szmulewicz A, Liang YH, Martinez-Alez G, O'Dea R et al. Comparative effectiveness of mood stabilizer monotherapy vs. second-generation antipsychotic monotherapy vs. combination therapy for the acute and maintenance treatment after a first episode of mania: A target trial emulation.
 - ![Static Badge](https://img.shields.io/badge/status-published-blue) McGrath S, Zhu C, O'Dea R, Guo M, and Duan R, “ LEARNER: A Transfer Learning Method for Low-Rank Matrix Estimation,” Statistics in Medicine 45, no. 15-17 (2026): e70669, doi.org/10.1002/sim.70669.
 - ![Static Badge](https://img.shields.io/badge/status-published-blue) Zwick H, O’Dea R, Barocas JA, et al. Health and Economic Outcomes of Addressing Encampments of Individuals Using Opioids. JAMA Netw Open. 2025;8(6):e2517095. doi:10.1001/jamanetworkopen.2025.17095
