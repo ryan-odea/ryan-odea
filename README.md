@@ -27,6 +27,7 @@
 - ![Static Badge](https://img.shields.io/badge/status-published-blue) Chatterjee A, Stewart EA, Assoumou SA, et al. Health and Economic Outcomes of Offering Buprenorphine in Homeless Shelters in Massachusetts. JAMA Netw Open. 2024;7(10):e2437233. doi:10.1001/jamanetworkopen.2024.37233
 
 ### Presentations
+- ![Static Badge](https://img.shields.io/badge/status-passed-gray) **October 2027** at Rhine-Knee Regiomeeting. Auto-characterization Methods in Time Resolved Serial Crystallography. [Talk]. O'Dea R, Kepa M, Weinert T.
 - ![Static Badge](https://img.shields.io/badge/status-passed-gray) **September 2027** at PSI Forschungskommission. PROBIXI - Self-Calibrating (PROB)ab(I)listic Peak Detection for Serial (X)-Ray Crystallograph(I)c Data [Poster Presentation]. O'Dea R, Kepa M, Weinert T.
 - ![Static Badge](https://img.shields.io/badge/status-passed-gray) **Aug 2026** at Joint Statistical Meetings (JSM). LEARNER: A transfer learning method for low-rank matrix estimation [Paper Presentation]. McGrath S, Zhu C, O'Dea R, Guo M, Duan R.
 - ![Static Badge](https://img.shields.io/badge/status-passed-gray) **April 2026** at Together For Hope. Medication for opioid use disorder initiation and discontinuation in pregnant and post-partum people in Massachusetts, 2014-2022 [Poster Presentation]. Epstein et al.
